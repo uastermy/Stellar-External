@@ -110,7 +110,7 @@ Download from: https://visualstudio.microsoft.com/downloads/
 ### Step 1: Clone or Download the Repository
 
 ```bash
-git clone https://github.com/yourusername/stellar-external.git
+git clone https://github.com/uastermy/stellar-external.git
 cd stellar-external
 ```
 
@@ -521,3 +521,4 @@ Error LNK2001: unresolved external symbol
 [⬆ Back to Top](#-stellar-external---build-instructions)
 
 </div>
+

